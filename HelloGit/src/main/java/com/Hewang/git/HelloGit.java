@@ -10,6 +10,7 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("Update version-1!");
         System.out.println("Branch-1!");
+        System.out.println("Branch's change!");
     }
 
 }
