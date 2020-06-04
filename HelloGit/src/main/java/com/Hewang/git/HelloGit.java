@@ -11,7 +11,7 @@ public class HelloGit {
         System.out.println("Update version-1!");
         System.out.println("Branch-1!");
         System.out.println("Master's change!");
-
+        System.out.println("Clone's change!");
     }
 
 }
